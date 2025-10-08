@@ -1,6 +1,0 @@
----
-title: "About"
-jupyter: quarto_venv
----
-
-About this site
